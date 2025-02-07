@@ -1,4 +1,4 @@
-To run this ocr, you'll need to install the pytesseract module.
+*To run this ocr, you'll need to install the pytesseract module.*
 You will need to replace the Tesseract dir with your own one including the .exe file. It can be found on your local hard drive C, inside the program files folder.
 
 Also, Tesseract would be required. The link is available [here](https://github.com/tesseract-ocr/tesseract/releases/download/5.5.0/tesseract-ocr-w64-setup-5.5.0.20241111.exe)
